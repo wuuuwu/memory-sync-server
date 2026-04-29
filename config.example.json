@@ -1,0 +1,14 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8888,
+    "db_path": "memory_sync.db"
+  },
+  "instances": [
+    {
+      "name": "laptop",
+      "instance_id": "替换为注册后返回的 instance_id",
+      "api_key": "替换为注册后返回的 api_key"
+    }
+  ]
+}
